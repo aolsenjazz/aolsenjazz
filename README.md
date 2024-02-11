@@ -7,4 +7,4 @@ I'm building libraries+apps to make life easier for musicians and engineers work
 - AI workflow integration
 - Music composition algorithm design
 
-You can reach me at my [LinkedIn]([https://www.linkedin.com/in/amolsen/) or [Twitter]([Twitter](https://twitter.com/its_ao)https://twitter.com/its_ao)
+You can reach me at my [LinkedIn](https://www.linkedin.com/in/amolsen/) or [Twitter](https://twitter.com/its_ao)
